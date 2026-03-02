@@ -33,7 +33,7 @@ require (
 	github.com/shurcooL/githubv4 v0.0.0-20220520033151-0b4e3294ff00
 	github.com/sourcegraph/jsonrpc2 v0.1.0
 	github.com/spf13/cobra v1.6.1
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.7.5
 	github.com/zalando/go-keyring v0.2.2
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
